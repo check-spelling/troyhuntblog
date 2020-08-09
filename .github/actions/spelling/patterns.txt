@@ -1,3 +1,9 @@
+# image host
+\.ggpht\.com/[^?]+
+# Lorem
+<p>Lorem.*</p>
+# assemblyIdentity
+ publicKeyToken="[0-9a-f]{16}"
 # Colors / Hex numbers
 (?:0[xX]|[uU]\+|[#=])[0-9a-fA-FgGrR]{2,}[uU]?[lL]{0,2}\b
 # uuid:
