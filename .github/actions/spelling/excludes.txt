@@ -1,0 +1,17 @@
+/Images/
+/Fonts/
+/Scripts/[^T]
+ignore$
+^\.github/
+\.ai$
+\.eot$
+\.eps$
+\.exe$
+\.gif$
+\.ico$
+\.jpg$
+\.png$
+\.psd$
+\.svg$
+\.ttf$
+\.woff$
