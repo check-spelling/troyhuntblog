@@ -1,7 +1,7 @@
 # image host
 \.ggpht\.com/[^?]+
 # YouTube
-https?://(?:(?:www\.|)youtube\.com|youtu.be)/[-a-zA-Z0-9?&=]*
+https?://(?:(?:www\.|)youtube\.com|youtu.be)/(?:embed/|)[-a-zA-Z0-9?&=]*
 # Lorem
 <p>Lorem.*</p>
 # assemblyIdentity
